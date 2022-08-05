@@ -37,10 +37,9 @@ The following tools help make easier to work with sample code.
 # Authors
 ** Fatima Zahir **
 
- GitHub: [@githubhandle](https://github.com/Fatima-hub333)
+- GitHub: [@githubhandle](https://github.com/Fatima-hub333)
 - Twitter: [@twitterhandle](https://twitter.com/Fatima_developr)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/fatimaa-zahir/)
-- 
+- LinkedIn: [@LinkedIn](https://www.linkedin.com/in/fatimaa-zahir/) 
 # 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
